@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'thymeleaf'" />
-    <option name="defaultScopeName" value="Project 'thymeleaf'" />
-    <option name="SEARCH_SCOPE" value="Project 'thymeleaf'" />
+    <option name="customScope" value="Project 'idébanken'" />
+    <option name="defaultScopeName" value="Project 'idébanken'" />
+    <option name="SEARCH_SCOPE" value="Project 'idébanken'" />
   </component>
 </application>
